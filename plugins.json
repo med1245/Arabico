@@ -445,7 +445,7 @@
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=animezid.org&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://codeberg.org/MehdiMed/arabica",
+        "repositoryUrl": "https://github.com/med1245/arabico",
         "fileSize": 13531,
         "status": 1,
         "language": "ar",
@@ -459,7 +459,7 @@
         ],
         "version": 4,
         "internalName": "animezidProvider",
-        "url": "https://codeberg.org/MehdiMed/arabica/raw/branch/builds/animezidProvider.cs3",
+        "url": "https://raw.githubusercontent.com/med1245/arabico/main/build/animezidProvider.cs3",
         "name": "animezidProvider"
     }
 ]
